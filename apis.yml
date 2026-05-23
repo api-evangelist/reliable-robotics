@@ -1,0 +1,84 @@
+aid: reliable-robotics
+name: Reliable Robotics
+description: >-
+  Reliable Robotics is a California-based aerospace company developing
+  continuous autopilot and remote piloting systems that retrofit existing
+  fixed-wing aircraft for automated and remotely supervised flight across all
+  phases (taxi, take-off, cruise, landing). The company has flown automated
+  Cessna 208 Caravan demonstrations including a fully uncrewed take-off and
+  landing in 2023, and is pursuing FAA Part 23 supplemental type certification
+  for its automation system. Reliable Robotics has contracts with the U.S. Air
+  Force AFWERX program and the Defense Innovation Unit to evaluate automated
+  cargo and ISR missions on platforms including the Cessna 208, and has
+  partnered with Textron Aviation on certification work. The company's
+  founders are alumni of SpaceX and Tesla autopilot teams. Reliable Robotics
+  is partner- and government-gated and does not currently offer public
+  consumer or developer APIs.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://reliable.co
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Aerospace
+  - Automation
+  - Autonomy
+  - Cargo Aviation
+  - Defense
+  - FAA Certification
+  - General Aviation
+  - Remote Piloting
+  - Uncrewed Aircraft
+apis: []
+common:
+  - url: https://reliable.co/
+    name: Reliable Robotics Website
+    type: Website
+  - url: https://reliable.co/about/
+    name: About
+    type: About
+  - url: https://reliable.co/news/
+    name: News
+    type: Blog
+  - url: https://reliable.co/technology/
+    name: Technology
+    type: Technology
+  - url: https://reliable.co/careers/
+    name: Careers
+    type: Careers
+  - url: https://reliable.co/contact/
+    name: Contact
+    type: Contact
+  - url: https://www.faa.gov/newsroom
+    name: FAA Newsroom (Certification Tracking)
+    type: Regulator
+  - url: https://afwerx.com/
+    name: AFWERX (Partner)
+    type: Partner
+  - url: https://www.diu.mil/
+    name: Defense Innovation Unit (Partner)
+    type: Partner
+  - url: https://txtav.com/
+    name: Textron Aviation (Partner)
+    type: Partner
+  - url: https://www.linkedin.com/company/reliablerobotics/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/reliable
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@reliablerobotics
+    name: YouTube
+    type: YouTube
+  - url: https://reliable.co/terms/
+    name: Terms of Use
+    type: TermsOfService
+  - url: https://reliable.co/privacy/
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

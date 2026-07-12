@@ -34,6 +34,8 @@ tags:
   - Uncrewed Aircraft
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/reliable-robotics-domain-security.yml
   - url: https://reliable.co/
     name: Reliable Robotics Website
     type: Website
